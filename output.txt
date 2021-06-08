@@ -1,0 +1,257 @@
+
+Header file found :    library mathematical
+
+Header file found :    library time
+
+::::   MAIN Function started  ::::
+
+Addition : 100+100 = 200 
+
+Print Expression 200
+
+
+interger declaration
+himel
+a
+
+variable Dection
+
+
+himel
+
+Value of the variable : 5
+
+
+a
+
+Value of the variable : 10
+
+
+a
+himel
+
+Addition : 10+5 = 15 
+
+Print Expression 15
+
+
+char declaration
+name
+
+variable Dection
+
+
+name
+H
+
+Value of the variable : 0
+
+
+name
+
+Print Expression 0
+
+
+interger declaration
+himz
+
+ARRAY Declaration  [ ]
+
+Size of the ARRAY is : 10
+
+
+
+Single line comment found :  # Single Comment check
+
+Multi line comment found :  '* Multiple line comment check *'
+value of expression: 10
+
+
+For Loop execution
+
+value of i : 1 expression value : 10
+
+value of i : 3 expression value : 10
+
+value of i : 5 expression value : 10
+
+value of i : 7 expression value : 10
+
+value of i : 9 expression value : 10
+
+
+
+Single line comment found :  # For Loop Tested
+Odd Even Number detection 
+Number : 10 is -> Even
+
+
+
+Power  : 2 ^ 5 
+value of expression: 32
+
+
+value of expression in ELSE : 32
+
+
+Reverse
+
+Print Expression 0
+
+
+Reverse For Loop execution
+
+value of i : 10 expression value : 2
+
+value of i : 8 expression value : 2
+
+value of i : 6 expression value : 2
+
+value of i : 4 expression value : 2
+
+value of i : 2 expression value : 2
+
+
+
+Single line comment found :  # Reverse For Loop Tested
+Odd Even Number detection 
+Number : 10 is -> Even
+
+
+
+Power  : 2 ^ 5 
+value of expression: 32
+
+
+value of expression in ELSE : 32
+
+
+
+Multi line comment found :  '* IF-ELSE Statement Tested  *'
+
+Greater than : 10 > 11 
+ himel
+
+Print Expression 5
+
+
+a
+
+Less Than : 10 < 11 
+
+Addition : 20+10 = 30 
+value of expression: 30
+
+
+
+FACTORIAL declaration
+FACTORIAL of 5 is : 120
+
+
+value of expression: 10
+
+
+value of expression in ELSE-IF : 30
+
+
+
+Single line comment found :  # IF-ELSEIF-ELSE Statement Tested 
+
+Check Switch  : 2
+
+Multiplication : 10*20 
+ 
+Power  : 3 ^ 3 
+
+Case No : 2 & expression value : 27 
+
+Mod : 82 MOD 10 
+
+SWITCH CASE Declaration  &  Case : 2 executed
+
+
+
+Single line comment found :  #  SWITCH Case Tested   
+value of expression: 82
+
+
+
+ WHILE Loop execution 
+
+iteration loop : 1    
+
+iteration loop : 2    
+
+iteration loop : 3    
+
+iteration loop : 4    
+
+
+
+Single line comment found :  # WHILE Loop Tested   
+value of expression: 28
+
+
+
+ REVERSE WHILE Loop execution 
+
+iteration loop : 5    
+
+iteration loop : 4    
+
+iteration loop : 3    
+
+iteration loop : 2    
+
+
+
+Multi line comment found :  '*  Reverse WHILE Loop Tested   *'
+Value of Sin(5) is 0.087156
+value of expression: 0
+
+
+Value of Cos(5) is 0.996195
+value of expression: 0
+
+
+Value of Tan(5) is 0.087489
+value of expression: 0
+
+
+Value of Log(5) is 1.609438
+value of expression: 1
+
+
+Value of Log10(5) is 0.698970
+value of expression: 0
+
+
+
+Addition : 10+20 = 30 
+
+Multiplication : 2*3 
+ 
+Division : 6/2 
+ 
+Subtraction : 30-3=27 
+ Value of Sin(45) is 0.707108
+
+Addition : 27+0 = 27 
+Value of Cos(45) is 0.707105
+
+Addition : 27+0 = 27 
+Value of Tan(50) is 1.191759
+
+Addition : 27+1 = 28 
+Value of Log(50) is 3.912023
+
+Addition : 28+3 = 31 
+Value of Log10(50) is 1.698970
+
+Addition : 31+1 = 32 
+
+Print Expression 32
+
+
+
+::::    MAIN Function END    ::::

@@ -1,0 +1,127 @@
+library mathematical
+library time
+
+Main_Function:
+$*
+	PRINT(100+100);
+
+	INT himel,a;
+
+	himel = 5;
+	a = 10;
+	
+	PRINT(a+himel);
+
+	CHAR name;
+
+	name = H;
+
+	PRINT(name);
+
+
+	ARRAY INT himz [10];
+
+
+	# Single Comment check
+
+	'* Multiple line comment check *'
+	
+
+	FOR_LOOP(1,10,2)
+	$*
+		10;
+	*$
+
+	# For Loop Tested
+	
+	IF(0)
+	$*
+		ODD_EVEN(10); 
+	*$
+	ELSE
+	$*
+		2^5;
+	*$
+
+
+	REVERSE_FOR_LOOP(10,1,2)
+	$*
+		PRINT(Reverse);
+	*$
+
+	# Reverse For Loop Tested
+	
+	IF(0)
+	$*
+		ODD_EVEN(10); 
+	*$
+	ELSE
+	$*
+		2^5;
+	*$
+
+	
+
+	'* IF-ELSE Statement Tested  *'
+
+	
+	IF(10>11)
+	$*
+		PRINT(himel);
+	*$
+	ELSEIF(a<11)
+	$*
+		20+10;
+	*$
+	ELSE
+	$*
+		FACT(5);    
+	*$
+	
+	# IF-ELSEIF-ELSE Statement Tested 
+
+
+	SWITCH (2)
+	$*
+
+	CASE 1: 10 * 20;
+
+	CASE 2: 3^3;
+
+	DEFAULT : 82 MOD 10;
+	
+	*$
+
+	#  SWITCH Case Tested   
+
+	WHILE(1<5)
+	$*
+		82;
+	*$
+
+	# WHILE Loop Tested   
+
+	REVERSE_WHILE(5>1)
+	$*
+		28;
+	*$
+
+
+	'*  Reverse WHILE Loop Tested   *'
+
+	SIN(5);
+	COS(5);
+	TAN(5);
+	LOG(5);
+	LOG10(5);
+
+	PRINT(10+20-2*3/2+SIN(45)+COS(45)+TAN(50)+LOG(50)+LOG10(50));
+
+	
+
+	
+	
+	
+*$
+
+
